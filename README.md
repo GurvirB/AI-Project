@@ -15,3 +15,4 @@ To prepare this dataset, all the 100 engines were run to failure.
 For these datasets, the engines were stopped randomly during their operational times.
 ### RUL datasets
 These datasets contain the values of the cycles for which the engines in the testset could have run more. Hence, adding the maximum number of cycles for the engines in he test set to the RUL given in the RUL dataset, will give the actual RUL for any engine.
+## Approach:
