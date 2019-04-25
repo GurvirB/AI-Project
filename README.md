@@ -1,4 +1,6 @@
 # Predictive Aircraft Maintenance
+## Instructions to download the project:
+1. Clone the repository
 ## Introduction:
 This project has been done in fulfillment to the CS595a - Artificial Intelligence course requirement. The aim of the project is to predictive the remaining useful life (RUL) of an engine at any instance of its lifetime using the concepts of neural networks in Artificial Intelligence.
 
