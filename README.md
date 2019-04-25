@@ -9,9 +9,9 @@ The hundreds of the sensors used in the airplanes produce sufficiently large amo
 
 ## Data:
 The data for this project has been taken from NASA's Turbofan Engine Degradation Simulation, wherein they used the simulated run to failure events from 100 different engines. The data package comes with 4 datasets each for training and testing the model and one set containing RUL values.
-### Training datasets: 
+### Training datasets
 To prepare this dataset, all the 100 engines were run to failure.
-### Testing datasets:
+### Testing datasets
 For these datasets, the engines were stopped randomly during their operational times.
-### RUL datasets:
+### RUL datasets
 These datasets contain the values of the cycles for which the engines in the testset could have run more. Hence, adding the maximum number of cycles for the engines in he test set to the RUL given in the RUL dataset, will give the actual RUL for any engine.
