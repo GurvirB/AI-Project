@@ -33,7 +33,7 @@ The hundreds of the sensors used in the airplanes produce sufficiently large amo
 
 ## Data:
 The data for this project has been taken from NASA's Turbofan Engine Degradation Simulation, wherein they used the simulated run to failure events from 100 different engines. The data package comes with 4 datasets each for training and testing the model and one set containing RUL values.
-Datasets are available at: https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/ 
+Datasets are available at: https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/ .
 Datasets have also been uploaded in the repository's CMAPSSData folder.
 ### Training datasets
 To prepare this dataset, all the 100 engines were run to failure.
